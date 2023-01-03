@@ -1,0 +1,39 @@
+
+
+
+li{
+    color: red;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif\;
+}
+#m420{
+    color: blue;
+}
+.m16{
+    color: brown;
+    background-color: aqua;
+}
+
+.green{
+    color:green;
+}
+.yellow{
+    background-color: yellow;
+}
+.Blog{
+    background-color: lightgreen;
+    border-width: 5px;
+    border-style: solid;
+    border-color: lightslategray;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+}
+.PAGE{
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    height: 200px;
+    background-image: url(colour.jpg);
+}
